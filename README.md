@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranit Katwe</h1>
 <h3 align="center">I see patterns where others see noise. Unlocking insights is my superpower.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitkatwe&label=Profile%20views&color=0e75b6&style=flat" alt="pranitkatwe" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
 
 - I’m currently working on [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
@@ -15,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranitKatwe](https://github.com/PranitKatwe)
 
-- 📝 I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
+- I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
 
 - 💬 Ask me about **Data Science, Machine Learning and Deep learning**
 
