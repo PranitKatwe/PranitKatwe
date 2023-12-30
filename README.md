@@ -5,7 +5,7 @@
 
 - I’m currently working on [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Statical Analysis,**
+- 🌱 I’m currently learning **PowerBI, Tableau, Statical Analysis**
 
 - I have worked on [Sentiment Analysis of Product Reviews](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
 
