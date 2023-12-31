@@ -5,7 +5,7 @@
 
 - I’m currently working on [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Statical Analysis**
+- 🌱 I’m currently learning **PowerBI, Tableau, Statical Analysis,**
 
 - I have worked on [Sentiment Analysis of Product Reviews](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
 
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranit katwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranit katwe" height="30" width="40" /></a>
-<a href="https://kaggle.com/pranit katwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranit katwe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranit-katwe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranit-katwe/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/pranitkatwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranitkatwe" height="30" width="40" /></a>
 <a href="https://instagram.com/pranit_katwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranit_katwe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nerdcast_nerdcasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nerdcast_nerdcasm" height="30" width="40" /></a>
 </p>
