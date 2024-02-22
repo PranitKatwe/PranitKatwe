@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
 
-- I’m currently working on [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
+- I’m currently working on [Game Recommender System]([https://github.com/PranitKatwe/ML-Project))
 
 - 🌱 I’m currently learning **PowerBI, Tableau, Statical Analysis,**
 
