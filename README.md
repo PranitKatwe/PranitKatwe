@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **Pranit.Katwe@colorado.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wT_1bQ2HJoc97OfsNcTMIYVc67ZA6E5R/view?usp=sharing](https://drive.google.com/file/d/1wT_1bQ2HJoc97OfsNcTMIYVc67ZA6E5R/view?usp=sharing)
+- 📄 Know about my experiences [Take a Look at My Resume](https://drive.google.com/file/d/1GgNjpBRBuIRNUsFbKZcF1hkIhHmDemsB/view?usp=sharing)
+
+- 📝 Portfolio [Pranit Katwe](https://sites.google.com/view/pranit-katwe/home)
 
 - ⚡ Fun fact **Sarcastic Personality with Bunch of Seriousness**
 
