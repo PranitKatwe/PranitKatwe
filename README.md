@@ -9,7 +9,7 @@
 
 - I have worked on [Sentiment Analysis of Product Reviews](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
 
-- My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast_Cancer_Classifcation)
+- My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast_Cancer_Classifcation) ,
                             [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
 - 👨‍💻 All of my projects are available at [https://github.com/PranitKatwe](https://github.com/PranitKatwe)
 
