@@ -11,11 +11,11 @@
 
 - My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast_Cancer_Classifcation) ,
                             [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
-- 👨‍💻 All of my projects are available at [Porfolio](http://bit.ly/pranitkatwe)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/PranitKatwe)
 
 - I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
 
-- 💬 Ask me about **Data Science, Machine Learning and Deep learning**
+- 💬 Ask me about **Data Science, Machine Learning, and Deep learning**
 
 - 📫 How to reach me **Pranit.Katwe@colorado.edu**
 
