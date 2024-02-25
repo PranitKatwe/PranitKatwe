@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Pranit.Katwe@colorado.edu**
 
-- 📄 Know about my experiences [Take a Look at My Resume](https://drive.google.com/file/d/1GgNjpBRBuIRNUsFbKZcF1hkIhHmDemsB/view?usp=sharing)
+- 📄 Know about my experiences [Take a Look at My Resume](https://drive.google.com/file/d/1ajoK7hJIAJInsJFbSn8r9Ysjn7t_viYQ/view?usp=sharing)
 
 - 📝 Portfolio [Pranit Katwe](https://sites.google.com/view/pranit-katwe/home)
 
