@@ -11,7 +11,7 @@
 
 - My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast_Cancer_Classifcation) ,
                             [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
-- 👨‍💻 All of my projects are available at [https://github.com/PranitKatwe](https://github.com/PranitKatwe)
+- 👨‍💻 All of my projects are available at [https://github.com/PranitKatwe](http://bit.ly/pranitkatwe))
 
 - I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
 
