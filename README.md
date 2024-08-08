@@ -3,14 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
 
-- I’m currently working on [Game Recommender System](https://github.com/PranitKatwe/ML-Project)
+- I’m currently working on [SteamPlay Recommender](https://github.com/PranitKatwe/ML-Project)
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Statical Analysis,**
+- 🌱 I’m currently learning **Large Language Models(LLMs), Transformer Architecture, RAGs, Hugging Face Transformers**
 
-- I have worked on [Sentiment Analysis of Product Reviews](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
+- I have worked on [ShopTalk: E-commerce Sentiment Analysis](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
 
-- My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast_Cancer_Classifcation) ,
-                            [Car Crash Statistical Analysis using Python](https://github.com/PranitKatwe/Car-Crash-Statistical-Analysis-using-Python)
+- My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier) ,
+                            [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PranitKatwe)
 
 - I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
