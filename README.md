@@ -9,7 +9,7 @@
 
 - I have worked on [ShopTalk: E-commerce Sentiment Analysis](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
 
-- My previous projects were [Breast Cancer Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier) ,
+- My previous projects were [Breast Cancer Neural Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier) ,
                             [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PranitKatwe)
 
