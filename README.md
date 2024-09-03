@@ -3,14 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
 
-- I’m currently working on [SteamPlay Recommender](https://github.com/PranitKatwe/ML-Project)
+- I’m currently working on LLM Application Development
 
 - 🌱 I’m currently learning **Large Language Models(LLMs), Transformer Architecture, RAGs, Hugging Face Transformers**
 
 - I have worked on [ShopTalk: E-commerce Sentiment Analysis](https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md)
 
-- My previous projects were [Breast Cancer Neural Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier) ,
-                            [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics)
+- My previous projects were [Breast Cancer Neural Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier),
+                            [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics),
+                            [SteamPlay Recommender](https://github.com/PranitKatwe/ML-Project)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PranitKatwe)
 
 - I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
