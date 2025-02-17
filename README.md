@@ -13,7 +13,7 @@
                             [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics),
                             [SteamPlay Recommender](https://github.com/PranitKatwe/ML-Project),
                             [ShopTalk E-commerce Sentiment Analysis](https://github.com/PranitKatwe/ShopTalk-E-commerce-Sentiment-Analysis),
-                            [UniPredict Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics),
+                            [UniPredict Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics)
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PranitKatwe)
 
@@ -26,8 +26,6 @@
 - 📄 Learn more about my experiences in [My Learning Vault](https://sites.google.com/view/pranit-katwe/professional-background?authuser=0).
 
 - 📝 Portfolio [Pranit Katwe](https://sites.google.com/view/pranit-katwe/home)
-
-- ⚡ Fun fact **Sarcastic Personality with Bunch of Seriousness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
