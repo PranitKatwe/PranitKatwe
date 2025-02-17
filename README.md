@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranit Katwe</h1>
+<h1 align="center">Hi , I'm Pranit Katwe</h1>
 <h3 align="center">I see patterns where others see noise. Unlocking insights is my superpower.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
