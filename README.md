@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
 
-- I’m currently working as an AI Intern at Goodie Bag and a Data Analyst and Web Development Intern at The mHealth Impact Labs
+- I’m currently working as a Lead AI and Data Intern at Goodie Bag and AI Intern at ExodusPoint Capital Management
 
-- 🌱 I’m currently learning **Large Language Models(LLMs), Transformer Architecture, RAGs, Hugging Face Transformers**
+- 🌱 I’m currently learning **Building AI Agents, MCP, A2A and AWS Infrastrucutre **
 
-- I have worked on [DocSumAI-LLM-Powered-Summaries]([https://github.com/PranitKatwe/Sentiment-Analysis-of-Womens-E-Commence/blob/main/README.md](https://github.com/PranitKatwe/DocSumAI-LLM-Powered-Summary))
+- I have worked on [DocSumAI-LLM-Powered-Summaries]((https://github.com/PranitKatwe/DocSumAI-LLM-Powered-Summary))
 
 - My previous projects were [Breast Cancer Neural Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier),
                             [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics),
@@ -19,7 +19,7 @@
 
 - I used to regularly talk on technology at [https://www.youtube.com/@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
 
-- 💬 Ask me about **Data Science, Machine Learning, and Deep learning**
+- 💬 Ask me about **Data Science, Machine Learning, Deep learning, and AI**
 
 - 📫 How to reach me **Pranit.Katwe@colorado.edu**
 
