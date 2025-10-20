@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitkatwe" alt="pranitkatwe" /></a> </p>
 
-- I’m currently working as a Lead AI and Data Intern at Goodie Bag and AI Intern at ExodusPoint Capital Management
+- I’m currently working as a Lead AI and Data Intern at Goodie Bag and an AI Intern at ExodusPoint Capital Management
 
-- 🌱 I’m currently learning **Building AI Agents, MCP, A2A and AWS Infrastrucutre **
+- 🌱 I’m currently learning **Building AI Agents, MCP, A2A and AWS Infrastrucutre**
 
-- I have worked on [DocSumAI-LLM-Powered-Summaries, AI Powered Loan Classification System, MCP Protocol]
+- I have worked on [DocSumAI – LLM-Powered Document Summarization](https://github.com/PranitKatwe/DocSumAI-LLM-Powered-Summary),  
+                              [AI-Powered Loan Classification System](https://github.com/PranitKatwe/ai-driven-sba-loan-eligibility-system),
+                              [MCP Protocol – Repo Oracle](https://github.com/PranitKatwe/repo-oracle).
 
 - My previous projects were [Breast Cancer Neural Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier),
                             [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics),
