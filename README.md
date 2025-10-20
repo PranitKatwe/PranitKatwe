@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Building AI Agents, MCP, A2A and AWS Infrastrucutre **
 
-- I have worked on [DocSumAI-LLM-Powered-Summaries]((https://github.com/PranitKatwe/DocSumAI-LLM-Powered-Summary))
+- I have worked on [DocSumAI-LLM-Powered-Summaries, AI Powered Loan Classification System, MCP Protocol]
 
 - My previous projects were [Breast Cancer Neural Classification](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier),
                             [UniPredict: Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics),
