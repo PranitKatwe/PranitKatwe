@@ -27,7 +27,7 @@
 
 - 📄 Learn more about my experiences in [My Learning Vault](https://sites.google.com/view/pranit-katwe/professional-background?authuser=0).
 
-- 📝 Portfolio [Pranit Katwe](https://sites.google.com/view/pranit-katwe/home)
+- 📝 Portfolio [Pranit Katwe]([https://sites.google.com/view/pranit-katwe/home](https://pranitkatwe.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
