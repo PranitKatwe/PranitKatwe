@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 282" width="1000" height="282" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="API access: email pranitskatwe@gmail.com · portfolio pranitkatwe.vercel.app · LinkedIn linkedin.com/in/pranit-katwe · learning vault at sites.google.com/view/pranit-katwe/professional-background · talks at youtube.com/@nerdcast_nerdcasm. Rate limits: none. Latency: low.">
+<svg viewBox="0 0 1000 252" width="1000" height="252" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="API access: email pranitskatwe@gmail.com · portfolio pranitkatwe.vercel.app · LinkedIn linkedin.com/in/pranit-katwe · talks at youtube.com/@nerdcast_nerdcasm. Rate limits: none. Latency: low.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
     .rise { animation: rise .5s ease backwards; }
@@ -11,7 +11,7 @@
     @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
   </style>
 
-  <rect x="1" y="1" width="998" height="280" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
+  <rect x="1" y="1" width="998" height="250" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
 
   <text class="mono rise d0" x="60" y="52" font-size="14" letter-spacing="5" fill="#38BDF8">API ACCESS</text>
   <text class="mono rise d0" x="940" y="52" text-anchor="end" font-size="13" fill="#444444">[06]</text>
@@ -26,12 +26,9 @@
   <text class="mono rise d3" x="60" y="160" font-size="14" fill="#666666">linkedin</text>
   <text class="mono rise d3" x="290" y="160" font-size="14" fill="#E8E8E8">linkedin.com/in/pranit-katwe</text>
 
-  <text class="mono rise d4" x="60" y="190" font-size="14" fill="#666666">changelog</text>
-  <text class="mono rise d4" x="290" y="190" font-size="14" fill="#E8E8E8">sites.google.com/view/pranit-katwe/professional-background</text>
+  <text class="mono rise d4" x="60" y="190" font-size="14" fill="#666666">archived_talks</text>
+  <text class="mono rise d4" x="290" y="190" font-size="14" fill="#E8E8E8">youtube.com/@nerdcast_nerdcasm</text>
 
-  <text class="mono rise d5" x="60" y="220" font-size="14" fill="#666666">archived_talks</text>
-  <text class="mono rise d5" x="290" y="220" font-size="14" fill="#E8E8E8">youtube.com/@nerdcast_nerdcasm</text>
-
-  <line class="rule2" pathLength="1" x1="60" y1="240" x2="940" y2="240" stroke="#2a2a2a" stroke-width="1"/>
-  <text class="mono rise d6" x="60" y="264" font-size="12" fill="#444444">// rate limits: none · latency: low · see known limitations</text>
+  <line class="rule2" pathLength="1" x1="60" y1="210" x2="940" y2="210" stroke="#2a2a2a" stroke-width="1"/>
+  <text class="mono rise d5" x="60" y="234" font-size="12" fill="#444444">// rate limits: none · latency: low · see known limitations</text>
 </svg>

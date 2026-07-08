@@ -22,4 +22,4 @@
 
 <img src="assets/limitations.svg" alt="Known limitations: replies too fast · will replace your $10K/month vendor with a Python script if left unsupervised · once ran 3 training jobs in parallel, VRAM exhausted · runs exclusively on black coffee, no sugar" width="100%" />
 
-<img src="assets/api-access.svg" alt="API access: email pranitskatwe@gmail.com · portfolio pranitkatwe.vercel.app · linkedin.com/in/pranit-katwe · learning vault at sites.google.com/view/pranit-katwe/professional-background · talks at youtube.com/@nerdcast_nerdcasm" width="100%" />
+<img src="assets/api-access.svg" alt="API access: email pranitskatwe@gmail.com · portfolio pranitkatwe.vercel.app · linkedin.com/in/pranit-katwe · talks at youtube.com/@nerdcast_nerdcasm" width="100%" />
