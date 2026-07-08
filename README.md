@@ -1,11 +1,13 @@
-<h1 align="center">pranit-katwe</h1>
-<p align="center"><b>Data Science + AI Engineer</b> · I build agents, pipelines, and models that survive contact with production.</p>
+<p align="center">
+  <img src="assets/header.svg" alt="Pranit Katwe — Data Science × AI Engineer. Noise in, signal out." width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://pranitkatwe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-pranitkatwe.vercel.app-38BDF8?style=flat-square&logo=vercel&logoColor=white&labelColor=0A0A0A" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/pranit-katwe"><img src="https://img.shields.io/badge/LinkedIn-pranit--katwe-38BDF8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/pranitkatwe"><img src="https://img.shields.io/badge/Kaggle-pranitkatwe-38BDF8?style=flat-square&logo=kaggle&logoColor=white&labelColor=0A0A0A" alt="Kaggle" /></a>
-  <a href="mailto:pranitskatwe@gmail.com"><img src="https://img.shields.io/badge/Email-pranitskatwe%40gmail.com-38BDF8?style=flat-square&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email" /></a>
+  <a href="https://pranitkatwe.vercel.app/"><code>portfolio</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/pranit-katwe"><code>linkedin</code></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:pranitskatwe@gmail.com"><code>email</code></a>
 </p>
 
 ## 📋 Model Card
@@ -72,13 +74,6 @@ tool_use:
 - Will replace your $10K/month vendor with a Python script if left unsupervised.
 - Once ran 3 training jobs in parallel — GPU at 100%, VRAM exhausted, no regrets.
 - Runs exclusively on black coffee, no sugar. This parameter is frozen.
-
-## 📡 Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitkatwe&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=38BDF8&icon_color=38BDF8&text_color=E8E8E8&border_color=2a2a2a" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranitkatwe&layout=compact&theme=dark&bg_color=0A0A0A&title_color=38BDF8&text_color=E8E8E8&border_color=2a2a2a" alt="Top languages" height="165" />
-</p>
 
 ## 🔌 API Access
 
