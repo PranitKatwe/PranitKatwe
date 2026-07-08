@@ -24,14 +24,14 @@
 | **[Repo Oracle](https://github.com/PranitKatwe/repo-oracle)** | 6-tool MCP server letting LLMs query GitHub repos inside Cursor IDE — PR risk detection, recursive tree scanner, ~40% fewer redundant API calls. Built at Cursor Hackathon Denver 2025. | Python · FastMCP · GitHub API |
 | **[DocSumAI](https://github.com/PranitKatwe/DocSumAI-LLM-Powered-Summary)** | Cloud LLM document summarization — PDF/DOCX/TXT, 10K+ word docs via token-safe chunking, response time cut 10s → 6s. | Flask · GCP Pub/Sub · BART · GPT-4o · Docker |
 | **[SBA Loan Eligibility](https://github.com/PranitKatwe/ai-driven-sba-loan-eligibility-system)** | Stacked ensemble with 30%+ minority-class recall improvement and SHAP/LIME explainability. | XGBoost · LightGBM · TabTransformer · SHAP |
-| **[Ray — open source contrib](https://github.com/PranitKatwe/ray)** | Resolved `ArrowNotImplementedError` enabling PyArrow compatibility in Ray Datasets; duplicate-removal API used in large-scale ML preprocessing. | Python · PyArrow · Distributed Computing |
+| **[Ray open source contrib](https://github.com/PranitKatwe/ray)** | Resolved `ArrowNotImplementedError` enabling PyArrow compatibility in Ray Datasets; duplicate-removal API used in large-scale ML preprocessing. | Python · PyArrow · Distributed Computing |
 
 <details>
 <summary>Earlier checkpoints</summary>
 <br/>
 
-- **[UniPredict — Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics)** — 7 GLMs compared via MSPE (R²=0.80); CGPA (r=0.72) and LOR top predictors
-- **[ShopTalk — E-commerce Sentiment](https://github.com/PranitKatwe/ShopTalk-E-commerce-Sentiment-Analysis)** — 23K+ reviews, LR vs SVM benchmark, 95% accuracy
+- **[UniPredict Admission Analytics](https://github.com/PranitKatwe/UniPredict-Admission-Analytics)** — 7 GLMs compared via MSPE (R²=0.80); CGPA (r=0.72) and LOR top predictors
+- **[ShopTalk E-commerce Sentiment](https://github.com/PranitKatwe/ShopTalk-E-commerce-Sentiment-Analysis)** — 23K+ reviews, LR vs SVM benchmark, 95% accuracy
 - **[Breast Cancer Neural Classifier](https://github.com/PranitKatwe/Breast-Cancer-Neural-Classifier)** — neural classification on diagnostic data
 - **[SteamPlay Recommender](https://github.com/PranitKatwe/ML-Project)** — game recommendation system
 - **[ElectroMobility Dashboard](https://github.com/PranitKatwe/ElectroMobility-Dashboard-)** — Power BI, 7 years of EV adoption across 300+ U.S. counties
