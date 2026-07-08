@@ -1,15 +1,37 @@
-<svg viewBox="0 0 1000 64" width="1000" height="64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="API access — contact links follow.">
+<svg viewBox="0 0 1000 282" width="1000" height="282" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="API access: email pranitskatwe@gmail.com · portfolio pranitkatwe.vercel.app · LinkedIn linkedin.com/in/pranit-katwe · learning vault at sites.google.com/view/pranit-katwe/professional-background · talks at youtube.com/@nerdcast_nerdcasm. Rate limits: none. Latency: low.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease .15s forwards; }
-    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.2s ease .3s forwards; }
+    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease forwards; }
+    .d0 { animation-delay: .15s; } .d1 { animation-delay: .35s; } .d2 { animation-delay: .5s; }
+    .d3 { animation-delay: .65s; } .d4 { animation-delay: .8s; } .d5 { animation-delay: .95s; }
+    .d6 { animation-delay: 1.25s; }
+    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
+    .rule2 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease 1.1s forwards; }
     @keyframes rise { to { opacity: 1; transform: translateY(0); } }
     @keyframes draw { to { stroke-dashoffset: 0; } }
   </style>
 
-  <rect x="1" y="1" width="998" height="62" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
-  <text class="mono rise" x="60" y="40" font-size="14" letter-spacing="5" fill="#38BDF8">API ACCESS</text>
-  <text class="mono rise" x="250" y="40" font-size="12" fill="#444444">// rate limits: none · latency: low · see known limitations</text>
-  <text class="mono rise" x="940" y="40" text-anchor="end" font-size="13" fill="#444444">[06]</text>
-  <line class="rule" pathLength="1" x1="60" y1="52" x2="940" y2="52" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="1" y="1" width="998" height="280" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
+
+  <text class="mono rise d0" x="60" y="52" font-size="14" letter-spacing="5" fill="#38BDF8">API ACCESS</text>
+  <text class="mono rise d0" x="940" y="52" text-anchor="end" font-size="13" fill="#444444">[06]</text>
+  <line class="rule" pathLength="1" x1="250" y1="47" x2="898" y2="47" stroke="#2a2a2a" stroke-width="1"/>
+
+  <text class="mono rise d1" x="60" y="100" font-size="14" fill="#666666">endpoint</text>
+  <text class="mono rise d1" x="290" y="100" font-size="14" fill="#38BDF8">pranitskatwe@gmail.com</text>
+
+  <text class="mono rise d2" x="60" y="130" font-size="14" fill="#666666">docs</text>
+  <text class="mono rise d2" x="290" y="130" font-size="14" fill="#E8E8E8">pranitkatwe.vercel.app</text>
+
+  <text class="mono rise d3" x="60" y="160" font-size="14" fill="#666666">linkedin</text>
+  <text class="mono rise d3" x="290" y="160" font-size="14" fill="#E8E8E8">linkedin.com/in/pranit-katwe</text>
+
+  <text class="mono rise d4" x="60" y="190" font-size="14" fill="#666666">changelog</text>
+  <text class="mono rise d4" x="290" y="190" font-size="14" fill="#E8E8E8">sites.google.com/view/pranit-katwe/professional-background</text>
+
+  <text class="mono rise d5" x="60" y="220" font-size="14" fill="#666666">archived_talks</text>
+  <text class="mono rise d5" x="290" y="220" font-size="14" fill="#E8E8E8">youtube.com/@nerdcast_nerdcasm</text>
+
+  <line class="rule2" pathLength="1" x1="60" y1="240" x2="940" y2="240" stroke="#2a2a2a" stroke-width="1"/>
+  <text class="mono rise d6" x="60" y="264" font-size="12" fill="#444444">// rate limits: none · latency: low · see known limitations</text>
 </svg>

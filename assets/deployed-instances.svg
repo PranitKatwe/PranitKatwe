@@ -1,15 +1,60 @@
-<svg viewBox="0 0 1000 64" width="1000" height="64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Deployed instances — project list follows.">
+<svg viewBox="0 0 1000 596" width="1000" height="596" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Deployed instances: Filing-Delta Event Signal (equity-filing-delta.vercel.app, github.com/PranitKatwe/equity-filing-delta) — SEC 10-K risk-text event study, 480 companies, 4,705 filings, honest null result. Repo Oracle — 6-tool MCP server for querying GitHub repos in Cursor IDE. DocSumAI — cloud LLM document summarization. SBA Loan Eligibility — stacked ensemble, 87% accuracy. Ray open-source contribution. All projects at github.com/PranitKatwe.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease .15s forwards; }
-    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.2s ease .3s forwards; }
+    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease forwards; }
+    .d0 { animation-delay: .15s; } .d1 { animation-delay: .35s; } .d2 { animation-delay: .55s; }
+    .d3 { animation-delay: .75s; } .d4 { animation-delay: .95s; } .d5 { animation-delay: 1.15s; }
+    .d6 { animation-delay: 1.45s; }
+    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
+    .rule2 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease 1.3s forwards; }
     @keyframes rise { to { opacity: 1; transform: translateY(0); } }
     @keyframes draw { to { stroke-dashoffset: 0; } }
   </style>
 
-  <rect x="1" y="1" width="998" height="62" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
-  <text class="mono rise" x="60" y="40" font-size="14" letter-spacing="5" fill="#38BDF8">DEPLOYED INSTANCES</text>
-  <text class="mono rise" x="360" y="40" font-size="12" fill="#444444">// markdown zone — the links below need to be clickable</text>
-  <text class="mono rise" x="940" y="40" text-anchor="end" font-size="13" fill="#444444">[04]</text>
-  <line class="rule" pathLength="1" x1="60" y1="52" x2="940" y2="52" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="1" y="1" width="998" height="594" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
+
+  <text class="mono rise d0" x="60" y="52" font-size="14" letter-spacing="5" fill="#38BDF8">DEPLOYED INSTANCES</text>
+  <text class="mono rise d0" x="360" y="52" font-size="12" fill="#444444">// URLs are plain text — type them, they work</text>
+  <text class="mono rise d0" x="940" y="52" text-anchor="end" font-size="13" fill="#444444">[04]</text>
+  <line class="rule" pathLength="1" x1="60" y1="64" x2="940" y2="64" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- 01 filing-delta -->
+  <text class="mono rise d1" x="60" y="104" font-size="15"><tspan fill="#38BDF8">▸ </tspan><tspan fill="#E8E8E8" font-weight="700">filing-delta-event-signal</tspan></text>
+  <text class="mono rise d1" x="940" y="104" text-anchor="end" font-size="12" fill="#666666">live → equity-filing-delta.vercel.app</text>
+  <text class="mono rise d1" x="88" y="130" font-size="13" fill="#999999">Event study: do changes in SEC 10-K risk text predict abnormal returns? 480 companies · 4,705 filings</text>
+  <text class="mono rise d1" x="88" y="154" font-size="13" fill="#999999">Verdict: real but weak, dies after costs. "The chart goes nowhere. That's the point."</text>
+  <text class="mono rise d1" x="88" y="178" font-size="12.5" fill="#666666">[Python · statsmodels · SEC EDGAR · Claude API · Vercel]</text>
+  <text class="mono rise d1" x="940" y="178" text-anchor="end" font-size="12" fill="#444444">github.com/PranitKatwe/equity-filing-delta</text>
+
+  <!-- 02 repo-oracle -->
+  <text class="mono rise d2" x="60" y="214" font-size="15"><tspan fill="#38BDF8">▸ </tspan><tspan fill="#E8E8E8" font-weight="700">repo-oracle</tspan></text>
+  <text class="mono rise d2" x="940" y="214" text-anchor="end" font-size="12" fill="#666666">MCP · Cursor Hackathon Denver 2025</text>
+  <text class="mono rise d2" x="88" y="240" font-size="13" fill="#999999">6-tool MCP server letting LLMs query GitHub repos inside Cursor IDE · ~40% fewer redundant API calls</text>
+  <text class="mono rise d2" x="88" y="264" font-size="12.5" fill="#666666">[Python · FastMCP · GitHub API]</text>
+  <text class="mono rise d2" x="940" y="264" text-anchor="end" font-size="12" fill="#444444">github.com/PranitKatwe/repo-oracle</text>
+
+  <!-- 03 docsum-ai -->
+  <text class="mono rise d3" x="60" y="300" font-size="15"><tspan fill="#38BDF8">▸ </tspan><tspan fill="#E8E8E8" font-weight="700">docsum-ai</tspan></text>
+  <text class="mono rise d3" x="940" y="300" text-anchor="end" font-size="12" fill="#666666">DEPLOYED · GCP</text>
+  <text class="mono rise d3" x="88" y="326" font-size="13" fill="#999999">Cloud LLM document summarization · PDF/DOCX/TXT · 10K+ word docs via token-safe chunking · 10s → 6s</text>
+  <text class="mono rise d3" x="88" y="350" font-size="12.5" fill="#666666">[Flask · GCP Pub/Sub · BART · GPT-4o · Docker]</text>
+  <text class="mono rise d3" x="940" y="350" text-anchor="end" font-size="12" fill="#444444">github.com/PranitKatwe/DocSumAI-LLM-Powered-Summary</text>
+
+  <!-- 04 sba-loan -->
+  <text class="mono rise d4" x="60" y="386" font-size="15"><tspan fill="#38BDF8">▸ </tspan><tspan fill="#E8E8E8" font-weight="700">sba-loan-eligibility</tspan></text>
+  <text class="mono rise d4" x="940" y="386" text-anchor="end" font-size="12" fill="#666666">RESEARCH</text>
+  <text class="mono rise d4" x="88" y="412" font-size="13" fill="#999999">Stacked ensemble · 87% accuracy across 4 loan types · 30%+ minority-class recall gain · SHAP/LIME</text>
+  <text class="mono rise d4" x="88" y="436" font-size="12.5" fill="#666666">[XGBoost · LightGBM · TabTransformer · SHAP]</text>
+  <text class="mono rise d4" x="940" y="436" text-anchor="end" font-size="12" fill="#444444">github.com/PranitKatwe/ai-driven-sba-loan-eligibility-system</text>
+
+  <!-- 05 ray-contrib -->
+  <text class="mono rise d5" x="60" y="472" font-size="15"><tspan fill="#38BDF8">▸ </tspan><tspan fill="#E8E8E8" font-weight="700">ray-contrib</tspan></text>
+  <text class="mono rise d5" x="940" y="472" text-anchor="end" font-size="12" fill="#666666">OPEN SOURCE · Apache Ray</text>
+  <text class="mono rise d5" x="88" y="498" font-size="13" fill="#999999">Fixed ArrowNotImplementedError enabling PyArrow compatibility · dedup API used in ML preprocessing</text>
+  <text class="mono rise d5" x="88" y="522" font-size="12.5" fill="#666666">[Python · PyArrow · Ray Datasets]</text>
+  <text class="mono rise d5" x="940" y="522" text-anchor="end" font-size="12" fill="#444444">github.com/PranitKatwe/ray</text>
+
+  <line class="rule2" pathLength="1" x1="60" y1="546" x2="940" y2="546" stroke="#2a2a2a" stroke-width="1"/>
+  <text class="mono rise d6" x="60" y="572" font-size="12" fill="#444444">+ earlier checkpoints: unipredict · shoptalk · breast-cancer-nn · steamplay · electromobility</text>
+  <text class="mono rise d6" x="940" y="572" text-anchor="end" font-size="12" fill="#666666">all at github.com/PranitKatwe</text>
 </svg>
