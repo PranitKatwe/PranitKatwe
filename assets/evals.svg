@@ -1,13 +1,13 @@
 <svg viewBox="0 0 1000 322" width="1000" height="322" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Evals, verified on real production workloads: vendor pipeline replacement saved ~$120K/yr; 68 Excel formats from 20+ institutions parsed into one Snowflake schema; multi-agent system in production with 5 agents and 25% token savings; zero duplicates after 3-level dedup; 87% SBA ensemble accuracy; 200+ grad students mentored. 6 passed, 0 failed.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .rise { opacity: 0; transform: translateY(8px); animation: rise .45s ease forwards; }
+    .rise { animation: rise .45s ease backwards; }
     .d0 { animation-delay: .15s; } .d1 { animation-delay: .4s; } .d2 { animation-delay: .6s; }
     .d3 { animation-delay: .8s; } .d4 { animation-delay: 1s; } .d5 { animation-delay: 1.2s; }
     .d6 { animation-delay: 1.4s; } .d7 { animation-delay: 1.8s; }
-    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
-    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rule { stroke-dasharray: 1; animation: draw 1s ease .2s backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
   </style>
 
   <rect x="1" y="1" width="998" height="320" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>

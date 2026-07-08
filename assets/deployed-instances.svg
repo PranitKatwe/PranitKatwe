@@ -1,14 +1,14 @@
 <svg viewBox="0 0 1000 596" width="1000" height="596" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Deployed instances: Filing-Delta Event Signal (equity-filing-delta.vercel.app, github.com/PranitKatwe/equity-filing-delta) — SEC 10-K risk-text event study, 480 companies, 4,705 filings, honest null result. Repo Oracle — 6-tool MCP server for querying GitHub repos in Cursor IDE. DocSumAI — cloud LLM document summarization. SBA Loan Eligibility — stacked ensemble, 87% accuracy. Ray open-source contribution. All projects at github.com/PranitKatwe.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease forwards; }
+    .rise { animation: rise .5s ease backwards; }
     .d0 { animation-delay: .15s; } .d1 { animation-delay: .35s; } .d2 { animation-delay: .55s; }
     .d3 { animation-delay: .75s; } .d4 { animation-delay: .95s; } .d5 { animation-delay: 1.15s; }
     .d6 { animation-delay: 1.45s; }
-    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
-    .rule2 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease 1.3s forwards; }
-    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rule { stroke-dasharray: 1; animation: draw 1s ease .2s backwards; }
+    .rule2 { stroke-dasharray: 1; animation: draw 1s ease 1.3s backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
   </style>
 
   <rect x="1" y="1" width="998" height="594" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>

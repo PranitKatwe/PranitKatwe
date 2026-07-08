@@ -1,21 +1,21 @@
 <svg viewBox="0 0 1000 280" width="1000" height="280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pranit Katwe — Data Science and AI Engineer. Noise in, signal out.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .fade1 { opacity: 0; animation: fadeIn .8s ease .2s forwards; }
-    .fade2 { opacity: 0; animation: fadeIn .8s ease .7s forwards; }
-    .fade3 { opacity: 0; animation: fadeIn .8s ease 1.2s forwards; }
-    .fade4 { opacity: 0; animation: fadeIn .8s ease 3.4s forwards; }
-    .draw-noise { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.8s ease-out .6s forwards; }
-    .draw-signal { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.8s ease-in-out 2.4s forwards; }
+    .fade1 { animation: fadeIn .8s ease .2s backwards; }
+    .fade2 { animation: fadeIn .8s ease .7s backwards; }
+    .fade3 { animation: fadeIn .8s ease 1.2s backwards; }
+    .fade4 { animation: fadeIn .8s ease 3.4s backwards; }
+    .draw-noise { stroke-dasharray: 1; animation: draw 1.8s ease-out .6s backwards; }
+    .draw-signal { stroke-dasharray: 1; animation: draw 1.8s ease-in-out 2.4s backwards; }
     .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out 2.2s infinite; }
-    .core { opacity: 0; animation: fadeIn .4s ease 2s forwards; }
+    .core { animation: fadeIn .4s ease 2s backwards; }
     .flick { animation: flick 3s ease-in-out infinite; }
     .f2 { animation-delay: .6s; }
     .f3 { animation-delay: 1.1s; }
     .f4 { animation-delay: 1.7s; }
     .f5 { animation-delay: 2.3s; }
-    @keyframes fadeIn { to { opacity: 1; } }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
     @keyframes pulse { 0% { transform: scale(1); opacity: .7; } 70% { transform: scale(3.4); opacity: 0; } 100% { transform: scale(3.4); opacity: 0; } }
     @keyframes flick { 0%, 100% { opacity: .12; } 50% { opacity: .55; } }
   </style>
@@ -39,11 +39,11 @@
     d="M60 208 L74 192 L88 214 L102 186 L116 222 L130 200 L144 228 L158 184 L172 210 L186 194 L200 224 L214 188 L228 216 L242 202 L256 230 L270 182 L284 208 L298 196 L312 220 L326 190 L340 212 L354 200 L368 226 L382 186 L396 214 L410 198 L424 218 L438 204 L452 210 L466 206 L482 205"/>
 
   <!-- stray noise dots -->
-  <circle class="flick" cx="120" cy="180" r="2" fill="#666666"/>
-  <circle class="flick f2" cx="230" cy="238" r="2" fill="#666666"/>
-  <circle class="flick f3" cx="310" cy="178" r="2" fill="#666666"/>
-  <circle class="flick f4" cx="180" cy="232" r="2" fill="#666666"/>
-  <circle class="flick f5" cx="400" cy="236" r="2" fill="#666666"/>
+  <circle class="flick" cx="120" cy="180" r="2" fill="#666666" opacity=".3"/>
+  <circle class="flick f2" cx="230" cy="238" r="2" fill="#666666" opacity=".3"/>
+  <circle class="flick f3" cx="310" cy="178" r="2" fill="#666666" opacity=".3"/>
+  <circle class="flick f4" cx="180" cy="232" r="2" fill="#666666" opacity=".3"/>
+  <circle class="flick f5" cx="400" cy="236" r="2" fill="#666666" opacity=".3"/>
 
   <!-- the node -->
   <circle class="pulse" cx="500" cy="205" r="7" fill="none" stroke="#38BDF8" stroke-width="1.5"/>

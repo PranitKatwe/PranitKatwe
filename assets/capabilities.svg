@@ -1,14 +1,14 @@
 <svg viewBox="0 0 1000 296" width="1000" height="296" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Capabilities: agents (LangGraph, CrewAI, MCP, LangChain, RAG with FAISS, LangSmith, Bedrock, Vertex AI), ML (PyTorch, TensorFlow, XGBoost, LightGBM, scikit-learn), data (Snowflake, Kafka, Spark, Airflow, PostgreSQL, Redis), backend (FastAPI, Flask, Django, Docker, Kubernetes, AWS, GCP), statistics, and Python, SQL, R, JavaScript.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease forwards; }
+    .rise { animation: rise .5s ease backwards; }
     .d0 { animation-delay: .15s; } .d1 { animation-delay: .35s; } .d2 { animation-delay: .5s; }
     .d3 { animation-delay: .65s; } .d4 { animation-delay: .8s; } .d5 { animation-delay: .95s; }
     .d6 { animation-delay: 1.1s; } .d7 { animation-delay: 1.25s; }
-    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
-    .cursor { opacity: 0; animation: blink 1.1s step-end 1.6s infinite; }
-    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rule { stroke-dasharray: 1; animation: draw 1s ease .2s backwards; }
+    .cursor { animation: blink 1.1s step-end 1.6s infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
     @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
   </style>
 

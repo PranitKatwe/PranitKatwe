@@ -1,12 +1,12 @@
 <svg viewBox="0 0 1000 216" width="1000" height="216" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Known limitations: replies too fast; will replace your $10K/month vendor with a Python script if left unsupervised; once ran 3 training jobs in parallel until VRAM was exhausted; runs exclusively on black coffee, no sugar.">
   <style>
     .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
-    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease forwards; }
+    .rise { animation: rise .5s ease backwards; }
     .d0 { animation-delay: .15s; } .d1 { animation-delay: .35s; } .d2 { animation-delay: .55s; }
     .d3 { animation-delay: .75s; } .d4 { animation-delay: .95s; }
-    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
-    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rule { stroke-dasharray: 1; animation: draw 1s ease .2s backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
   </style>
 
   <rect x="1" y="1" width="998" height="214" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
