@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1000 322" width="1000" height="322" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Evals, verified on real production workloads: vendor pipeline replacement saved ~$120K/yr; 68 Excel formats from 20+ institutions parsed into one Snowflake schema; multi-agent system in production with 5 agents and 25% token savings; zero duplicates after 3-level dedup; 87% SBA ensemble accuracy; 200+ grad students mentored. 6 passed, 0 failed.">
+  <style>
+    .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
+    .rise { opacity: 0; transform: translateY(8px); animation: rise .45s ease forwards; }
+    .d0 { animation-delay: .15s; } .d1 { animation-delay: .4s; } .d2 { animation-delay: .6s; }
+    .d3 { animation-delay: .8s; } .d4 { animation-delay: 1s; } .d5 { animation-delay: 1.2s; }
+    .d6 { animation-delay: 1.4s; } .d7 { animation-delay: 1.8s; }
+    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
+    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="998" height="320" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
+
+  <text class="mono rise d0" x="60" y="52" font-size="14" letter-spacing="5" fill="#38BDF8">EVALS</text>
+  <text class="mono rise d0" x="180" y="52" font-size="13" fill="#444444">real production workloads · no synthetic data</text>
+  <text class="mono rise d0" x="940" y="52" text-anchor="end" font-size="13" fill="#444444">[03]</text>
+
+  <text class="mono rise d1" x="60" y="102" font-size="15"><tspan fill="#38BDF8">✓ </tspan><tspan fill="#999999">vendor_pipeline_replacement </tspan><tspan fill="#333333">················ </tspan><tspan fill="#E8E8E8" font-weight="700">~$120K/yr saved</tspan></text>
+
+  <text class="mono rise d2" x="60" y="136" font-size="15"><tspan fill="#38BDF8">✓ </tspan><tspan fill="#999999">excel_formats_to_snowflake </tspan><tspan fill="#333333">················· </tspan><tspan fill="#E8E8E8" font-weight="700">68 formats · 20+ institutions</tspan></text>
+
+  <text class="mono rise d3" x="60" y="170" font-size="15"><tspan fill="#38BDF8">✓ </tspan><tspan fill="#999999">multi_agent_system_in_prod </tspan><tspan fill="#333333">················· </tspan><tspan fill="#E8E8E8" font-weight="700">5 agents · 25% token savings</tspan></text>
+
+  <text class="mono rise d4" x="60" y="204" font-size="15"><tspan fill="#38BDF8">✓ </tspan><tspan fill="#999999">three_level_dedup_duplicates </tspan><tspan fill="#333333">··············· </tspan><tspan fill="#E8E8E8" font-weight="700">0</tspan></text>
+
+  <text class="mono rise d5" x="60" y="238" font-size="15"><tspan fill="#38BDF8">✓ </tspan><tspan fill="#999999">sba_ensemble_accuracy </tspan><tspan fill="#333333">······················ </tspan><tspan fill="#E8E8E8" font-weight="700">87% across 4 loan types</tspan></text>
+
+  <text class="mono rise d6" x="60" y="272" font-size="15"><tspan fill="#38BDF8">✓ </tspan><tspan fill="#999999">grad_students_mentored </tspan><tspan fill="#333333">····················· </tspan><tspan fill="#E8E8E8" font-weight="700">200+ survived my grading</tspan></text>
+
+  <line class="rule" pathLength="1" x1="60" y1="288" x2="940" y2="288" stroke="#2a2a2a" stroke-width="1"/>
+  <text class="mono rise d7" x="60" y="310" font-size="14"><tspan fill="#38BDF8" font-weight="700">6 passed</tspan><tspan fill="#666666"> · 0 failed · honest verdicts only</tspan></text>
+</svg>

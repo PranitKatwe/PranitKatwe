@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1000 272" width="1000" height="272" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Model card: MS in Data Science at CU Boulder, AI Intern at ExodusPoint Capital Management, previously Goodie Bag Food Co., mHealth Impact Lab, and CU Boulder Head TA. Seeking full-time Data Science, ML, or AI Engineering roles.">
+  <style>
+    .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
+    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease forwards; }
+    .d0 { animation-delay: .15s; } .d1 { animation-delay: .3s; } .d2 { animation-delay: .45s; }
+    .d3 { animation-delay: .6s; } .d4 { animation-delay: .75s; } .d5 { animation-delay: .9s; }
+    .d6 { animation-delay: 1.05s; }
+    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s ease .2s forwards; }
+    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="998" height="270" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
+
+  <text class="mono rise d0" x="60" y="52" font-size="14" letter-spacing="5" fill="#38BDF8">MODEL CARD</text>
+  <text class="mono rise d0" x="940" y="52" text-anchor="end" font-size="13" fill="#444444">[01]</text>
+  <line class="rule" pathLength="1" x1="230" y1="47" x2="898" y2="47" stroke="#2a2a2a" stroke-width="1"/>
+
+  <text class="mono rise d1" x="60" y="100" font-size="14" fill="#666666">base_architecture</text>
+  <text class="mono rise d1" x="290" y="100" font-size="14" fill="#E8E8E8">Human · MS in Data Science, University of Colorado Boulder</text>
+
+  <text class="mono rise d2" x="60" y="130" font-size="14" fill="#666666">current_deployment</text>
+  <text class="mono rise d2" x="290" y="130" font-size="14" fill="#E8E8E8">AI Intern @ ExodusPoint Capital Management · New York, NY</text>
+
+  <text class="mono rise d3" x="60" y="160" font-size="14" fill="#666666">fine_tuning_history</text>
+  <text class="mono rise d3" x="290" y="160" font-size="14" fill="#E8E8E8">Goodie Bag Food Co. · mHealth Impact Lab · CU Boulder (Head TA ×4 courses)</text>
+
+  <text class="mono rise d4" x="60" y="190" font-size="14" fill="#666666">pretraining_corpus</text>
+  <text class="mono rise d4" x="290" y="190" font-size="14" fill="#E8E8E8">2+ years of ML systems, financial ETL pipelines, and AI agents</text>
+
+  <text class="mono rise d5" x="60" y="220" font-size="14" fill="#666666">currently_training_on</text>
+  <text class="mono rise d5" x="290" y="220" font-size="14" fill="#E8E8E8">AI agents · MCP · A2A · AWS infrastructure</text>
+
+  <text class="mono rise d6" x="60" y="250" font-size="14" fill="#666666">intended_use</text>
+  <text class="mono rise d6" x="290" y="250" font-size="14" fill="#38BDF8">Full-time Data Science / ML / AI Engineering roles</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1000 64" width="1000" height="64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Deployed instances — project list follows.">
+  <style>
+    .mono { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consolas, Menlo, monospace; }
+    .rise { opacity: 0; transform: translateY(8px); animation: rise .5s ease .15s forwards; }
+    .rule { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.2s ease .3s forwards; }
+    @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="998" height="62" rx="14" fill="#0A0A0A" stroke="#2a2a2a" stroke-width="1.5"/>
+  <text class="mono rise" x="60" y="40" font-size="14" letter-spacing="5" fill="#38BDF8">DEPLOYED INSTANCES</text>
+  <text class="mono rise" x="360" y="40" font-size="12" fill="#444444">// markdown zone — the links below need to be clickable</text>
+  <text class="mono rise" x="940" y="40" text-anchor="end" font-size="13" fill="#444444">[04]</text>
+  <line class="rule" pathLength="1" x1="60" y1="52" x2="940" y2="52" stroke="#2a2a2a" stroke-width="1"/>
+</svg>

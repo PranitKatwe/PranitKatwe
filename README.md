@@ -10,43 +10,13 @@
   <a href="mailto:pranitskatwe@gmail.com"><code>email</code></a>
 </p>
 
-## 📋 Model Card
+<img src="assets/model-card.svg" alt="Model card: MS in Data Science at CU Boulder · AI Intern at ExodusPoint Capital Management · previously Goodie Bag Food Co., mHealth Impact Lab, CU Boulder Head TA · seeking full-time Data Science / ML / AI Engineering roles" width="100%" />
 
-| | |
-|---|---|
-| **Base architecture** | Human · MS in Data Science, University of Colorado Boulder |
-| **Current deployment** | AI Intern @ ExodusPoint Capital Management · New York, NY |
-| **Fine-tuning history** | Goodie Bag Food Co. (production multi-agent systems) · mHealth Impact Lab (health data platforms) · CU Boulder (Head TA, 4 grad ML/NLP courses) |
-| **Pretraining corpus** | 2+ years of ML systems, financial ETL pipelines, and AI agents |
-| **Currently training on** | AI agents · MCP · A2A · AWS infrastructure |
-| **Intended use** | Full-time Data Science / ML / AI Engineering roles |
+<img src="assets/capabilities.svg" alt="Capabilities — agents: LangGraph, CrewAI, MCP, LangChain, RAG + FAISS, LangSmith, Bedrock, Vertex AI · ml: PyTorch, TensorFlow, XGBoost, LightGBM, scikit-learn · data: Snowflake, Kafka, Spark, Airflow, PostgreSQL, Redis · backend: FastAPI, Flask, Django, Docker, Kubernetes, AWS, GCP · statistics · languages: Python, SQL, R, JavaScript" width="100%" />
 
-## 🛠️ Capabilities
+<img src="assets/evals.svg" alt="Evals on real production workloads: ~$120K/yr saved replacing a vendor pipeline · 68 Excel formats parsed into one Snowflake schema · 5-agent production system with 25% token savings · 0 duplicates after 3-level dedup · 87% SBA ensemble accuracy · 200+ grad students mentored. 6 passed, 0 failed." width="100%" />
 
-```yaml
-tool_use:
-  agents:      [LangGraph, CrewAI, MCP, LangChain, RAG + FAISS, LangSmith, Bedrock, Vertex AI]
-  ml:          [PyTorch, TensorFlow, XGBoost, LightGBM, scikit-learn, TabTransformer]
-  data:        [Snowflake, Kafka, Spark, Airflow, PostgreSQL, MongoDB, Redis, pandas]
-  backend:     [FastAPI, Flask, Django, Docker, Kubernetes, AWS, GCP]
-  statistics:  [hypothesis testing, A/B testing, causal inference, time series, ANOVA]
-  languages:   [Python, SQL, R, JavaScript]
-```
-
-## 📊 Evals
-
-*All benchmarks verified on real production workloads — no synthetic data.*
-
-| Benchmark | Score |
-|---|---|
-| Vendor replaced with in-house pipeline | **~$120K/yr saved** |
-| Vendor Excel formats parsed into one Snowflake schema | **68 formats, 20+ institutions** |
-| Multi-agent system shipped to production | **5 domain agents, 25% token savings** via MoE intent router |
-| Duplicates after 3-level dedup design (SHA-256 + Message ID + 7-column key) | **0** |
-| SBA loan stacked-ensemble accuracy | **87%** across 4 loan types |
-| Grad students survived my grading | **200+ mentored** |
-
-## 🚀 Deployed Instances
+<img src="assets/deployed-instances.svg" alt="Deployed instances" width="100%" />
 
 | Instance | Description | Stack |
 |---|---|---|
@@ -68,15 +38,16 @@ tool_use:
 
 </details>
 
-## ⚠️ Known Limitations
+<img src="assets/limitations.svg" alt="Known limitations: replies too fast · will replace your $10K/month vendor with a Python script if left unsupervised · once ran 3 training jobs in parallel, VRAM exhausted · runs exclusively on black coffee, no sugar" width="100%" />
 
-- Replies too fast. It's a problem.
-- Will replace your $10K/month vendor with a Python script if left unsupervised.
-- Once ran 3 training jobs in parallel — GPU at 100%, VRAM exhausted, no regrets.
-- Runs exclusively on black coffee, no sugar. This parameter is frozen.
+<img src="assets/api-access.svg" alt="API access" width="100%" />
 
-## 🔌 API Access
-
-**Endpoint:** [pranitskatwe@gmail.com](mailto:pranitskatwe@gmail.com) · **Docs:** [pranitkatwe.vercel.app](https://pranitkatwe.vercel.app/) · **Changelog:** [My Learning Vault](https://sites.google.com/view/pranit-katwe/professional-background) · **Archived talks:** [@nerdcast_nerdcasm](https://www.youtube.com/@nerdcast_nerdcasm)
-
-*Rate limits: none. Latency: low. See Known Limitations.*
+<p align="center">
+  <b>Endpoint:</b> <a href="mailto:pranitskatwe@gmail.com">pranitskatwe@gmail.com</a>
+  &nbsp;·&nbsp;
+  <b>Docs:</b> <a href="https://pranitkatwe.vercel.app/">pranitkatwe.vercel.app</a>
+  &nbsp;·&nbsp;
+  <b>Changelog:</b> <a href="https://sites.google.com/view/pranit-katwe/professional-background">My Learning Vault</a>
+  &nbsp;·&nbsp;
+  <b>Archived talks:</b> <a href="https://www.youtube.com/@nerdcast_nerdcasm">@nerdcast_nerdcasm</a>
+</p>
